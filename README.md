@@ -1,7 +1,6 @@
 <div id="top"></div>
 
-<div align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGpzKKJkg_hSQ/profile-displayphoto-shrink_200_200/0/1628948025448?e=1646265600&v=beta&t=lAa3c-OEu5NrTrmLsB6fDJf_zw7mOsmy6ngKfWRNUQw" alt="Logo" width="150" height="150" style="border-radius: 150px;">
+<div>
   <h3 align="center">Muhammad Fauzan Febriansyah</h3>
   <p align="center">
     Self taught developer
