@@ -8,7 +8,7 @@
     <br />
     <a href="mailto:fauzanfebrian1725@gmail.com" sty>Email Me</a>
     ·
-    <a href="https://www.linkedin.com/in/fauzan-f-523171213" sty>Linkedin</a>
+    <a href="https://www.linkedin.com/in/fauzanfebriansyah" sty>Linkedin</a>
   </p>
   <hr />
 </div>
@@ -16,6 +16,6 @@
   <strong>About Me</strong>
 </h3>
 <p align="justify">
-Hi👋 I am fauzan, i really interested all about software development & technology.  I'm a self taught developer who start studying programming since 2020 until now, good at <i>javascript</i> and some javascript framework, such as <i>react</i>, <i>next</i>, <i>express</i>, and <i>nestjs<i/>
+Hi I am Fauzan, I am a full-stack developer with a strong focus on Node.js and a passion for computer science. I have a natural curiosity and desire to constantly learn and stay current with the latest technologies and industry trends. My expertise in Node.js allows me to develop high-performance, scalable applications for a wide range of clients and projects. I am a quick learner, able to adapt to new technologies and programming languages with ease.
 </p>
 <hr />
