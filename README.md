@@ -9,7 +9,11 @@
     <a href="mailto:fauzanfebrian1725@gmail.com" sty>Email Me</a>
     ·
     <a href="https://www.linkedin.com/in/fauzanfebriansyah" sty>Linkedin</a>
+    <br />
+    <br />
+    <a  href="https://wakatime.com/@5fadbdc2-f9e3-4090-ba1e-b72d51aee5af"><img src="https://wakatime.com/badge/user/5fadbdc2-f9e3-4090-ba1e-b72d51aee5af.svg" alt="Total time coded since Nov 10 2022" /></a>
   </p>
+  
   <hr />
 </div>
 <h3 align="center">
