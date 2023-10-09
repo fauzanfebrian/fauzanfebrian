@@ -5,7 +5,7 @@
   <p style="color:#8F9BAA;">
     Fullstack Developer
   </p>
-  <a href="mailto:fauzanfebrian1725@gmail.com" sty>Email Me</a> ·
+  <a href="mailto:fauzanfebriann@gmail.com" sty>Email Me</a> ·
   <a href="https://www.linkedin.com/in/fauzanfebriansyah" sty >Linkedin</a>
   <br />
   <br />
