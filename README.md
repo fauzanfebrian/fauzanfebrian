@@ -23,9 +23,9 @@
   <h3 style="font-weight:bold;">
     About Me
   </h3>
-  <p align="justify">
-  Hi I am a full-stack developer with a strong focus on Node.js and a passion for computer science. I have a natural curiosity and desire to constantly learn and stay current with the latest technologies and industry trends. My expertise in Node.js allows me to develop high-performance, scalable applications for a wide range of clients and projects. I am a quick learner, able to adapt to new technologies and programming languages with ease.
-  </p>
+  <p align="justify">Hey there! I'm a full-stack developer with a special fondness for the magic that happens behind the scenes—yes, the backend! 💻 I've got a bag of coding tricks, and I'm fluent in languages like Go, TypeScript, and PHP.</p>
+  <p align="justify">What fuels my engine? A mix of passion and an insatiable curiosity for the world of software engineering. I'm not just in it for the code; I'm on a perpetual learning rollercoaster, always hungry for the next big challenge.</p>
+  <p align="justify">So, if you're looking for someone who can weave wonders in the backend realms, who's got the languages down to a sweet science, and who's always up for learning something new—well, you just found your friendly neighborhood full-stack developer! Let's turn those coding dreams into reality together!</p>
 </div>
 
 <hr />
