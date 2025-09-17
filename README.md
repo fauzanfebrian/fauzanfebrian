@@ -1,31 +1,51 @@
-<div id="top"></div>
-
 <div align="center">
-  <h3 style="font-weight:bold;">Muhammad Fauzan Febriansyah</h3>
-
-  <a href="mailto:fauzanfebriann@gmail.com" sty>Email Me</a>
-  <!-- <a href="https://www.linkedin.com/in/fauzanfebriansyah" sty >Linkedin</a> --> 
-  <a  href="https://wakatime.com/@fauzanfebrian">
-    <img src="https://wakatime.com/badge/user/5fadbdc2-f9e3-4090-ba1e-b72d51aee5af.svg" alt="Total time coded since Nov 10 2022" />
-  </a>
-  <a  href="https://github.com/fauzanfebrian?tab=followers">
-    <img src="https://img.shields.io/github/followers/fauzanfebrian?logo=github&style=plastic" alt="Github follower" />
-  </a>
+  <h1>Muhammad Fauzan Febriansyah</h1>
+  <strong>A Systems Engineer wannabe, building a deep understanding of technology from first principles.</strong>
+  <br />
+  <p>
+    <a href="mailto:fauzanfebriann@gmail.com">Email</a> •
+    <a href="https://fauzanfebrian.my.id/">Website</a> •
+    <a href="https://www.linkedin.com/in/fauzanfebriansyah">LinkedIn</a> •
+    <a href="https://github.com/fauzanfebrian">GitHub</a>
+  </p>
 </div>
 
-<hr />
+---
 
-<!-- <div align="center">
-        <h3 style="font-weight:bold;">
-          About Me
-        </h3>
-        <p align="justify">Hey there! I'm a full-stack developer with a special fondness for the magic that happens behind the scenes—yes, the backend! 💻 I've got a bag of coding tricks, and I'm fluent in languages like Go, TypeScript, and PHP.</p>
-        <p align="justify">What fuels my engine? A mix of passion and an insatiable curiosity for the world of software engineering. I'm not just in it for the code; I'm on a perpetual learning rollercoaster, always hungry for the next big challenge.</p>
-        <p align="justify">So, if you're looking for someone who can weave wonders in the backend realms, who's got the languages down to a sweet science, and who's always up for learning something new—well, you just found your friendly neighborhood full-stack developer! Let's turn those coding dreams into reality together!</p>
-      </div>
-      
-      <hr /> -->
-<br/>
+Hi there 👋
+
+I'm a Software Engineer By day, focused on building scalable systems with modern tools like NestJS, NextJS, GCP. By night, I'm on a personal mission to master the fundamentals of computer science.
+
+This means going deep dive into the fundamentals. Studying C, Operating Systems, and Networking, to connect the dots between the high-level applications I build and the low-level systems they run on.
+
+---
+
+### 🔭 Currently Learning & Building
+
+My current focus is on bridging theory with practice:
+
+* 🧠 **C Language Deep Dive:** Systematically mastering memory management, pointers, and low-level programming concepts. I document my progress and key insights in my **[C Lab Logs](https://github.com/fauzanfebrian/c-memory-playground/tree/main/docs/lab-logs)**.
+* 🤝 **Open Source Contribution:** Actively participating in an Open Source Camp by [Cusdeb.com](https://www.instagram.com/cusdeb_com/), where I'm contributing to a [C-based port of OpenBSD userland utilities](https://github.com/fauzanfebrian/cusdeb-open-source-playground).
+
+---
+
+### 🛠️ My Digital Workbench
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+---
+
+### 📊 Real-Time Proof of Work
+
+These stats aren't a list of skills I claim to have; they are a real-time reflection of my work. Data is automatically generated via WakaTime and shows my actual coding activity over the last 7 days.
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
