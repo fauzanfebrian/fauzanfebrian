@@ -25,7 +25,7 @@ This means going deep dive into the fundamentals. Studying C, Operating Systems,
 My current focus is on bridging theory with practice:
 
 * 🧠 **C Language Deep Dive:** Systematically mastering memory management, pointers, and low-level programming concepts. I document my progress and key insights in my **[C Lab Logs](https://github.com/fauzanfebrian/c-memory-playground/tree/main/docs/lab-logs)**.
-* 🤝 **Open Source Contribution:** Actively participating in an Open Source Camp by [Cusdeb.com](https://www.instagram.com/cusdeb_com/), where I'm contributing to a [C-based port of OpenBSD userland utilities](https://github.com/fauzanfebrian/cusdeb-open-source-playground).
+* 🤝 **Open Source Contribution:** Actively participating in an Open Source Camp by [CusDeb.com](https://www.instagram.com/cusdeb_com/), where I'm contributing to a [C-based port of OpenBSD userland utilities](https://github.com/fauzanfebrian/cusdeb-open-source-playground).
 
 ---
 
@@ -45,7 +45,7 @@ My current focus is on bridging theory with practice:
 
 ### 📊 Real-Time Proof of Work
 
-These stats aren't a list of skills I claim to have; they are a real-time reflection of my work. Data is automatically generated via WakaTime and shows my actual coding activity over the last 7 days.
+These stats aren't a list of skills I claim to have, they are a real-time reflection of my work. Data is automatically generated via WakaTime and shows my actual coding activity over the last 7 days.
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
