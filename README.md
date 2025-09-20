@@ -14,9 +14,11 @@
 
 Hi there 👋
 
-I'm a Software Engineer By day, focused on building scalable systems with modern tools like NestJS, NextJS, GCP. By night, I'm on a personal mission to master the fundamentals of computer science.
+I'm a Software Engineer. By day, focused on building scalable systems with modern tools like NestJS, NextJS, GCP. By
+night, I'm on a personal mission to master the fundamentals of computer science.
 
-This means going deep dive into the fundamentals. Studying C, Operating Systems, and Networking, to connect the dots between the high-level applications I build and the low-level systems they run on.
+This means going deep dive into the fundamentals. Studying C, Operating Systems, and Networking, to connect the dots
+between the high-level applications I build and the low-level systems they run on.
 
 ---
 
@@ -24,8 +26,12 @@ This means going deep dive into the fundamentals. Studying C, Operating Systems,
 
 My current focus is on bridging theory with practice:
 
-* 🧠 **C Language Deep Dive:** Systematically mastering memory management, pointers, and low-level programming concepts. I document my progress and key insights in my **[C Lab Logs](https://github.com/fauzanfebrian/c-memory-playground/tree/main/docs/lab-logs)**.
-* 🤝 **Open Source Contribution:** Actively participating in an Open Source Camp by [CusDeb.com](https://www.instagram.com/cusdeb_com/), where I'm contributing to a [C-based port of OpenBSD userland utilities](https://github.com/fauzanfebrian/cusdeb-open-source-playground).
+-   🧠 **C Language Deep Dive:** Systematically mastering memory management, pointers, and low-level programming
+    concepts. I document my progress and key insights in my
+    **[C Lab Logs](https://github.com/fauzanfebrian/c-memory-playground/tree/main/docs/lab-logs)**.
+-   🤝 **Open Source Contribution:** Actively participating in an Open Source Camp by
+    [CusDeb.com](https://www.instagram.com/cusdeb_com/), where I'm contributing to a
+    [C-based port of OpenBSD userland utilities](https://github.com/tutorin-tech/playground/).
 
 ---
 
@@ -43,22 +49,39 @@ My current focus is on bridging theory with practice:
 
 ---
 
-### 📊 Real-Time Proof of Work
+### 📝 Real-Time Proof of Work
 
-These stats aren't a list of skills I claim to have, they are a real-time reflection of my work. Data is automatically generated via WakaTime and shows my actual coding activity over the last 7 days.
+These stats aren't a list of skills I claim to have, they are a real-time reflection of my work. Data is automatically
+generated via WakaTime and shows my actual coding activity over the last 7 days.
 
 <!--START_SECTION:waka-->
-**I Mostly Code in TypeScript** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
-TypeScript               24 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.54 % 
-JavaScript               5 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.20 % 
-C                        2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.88 % 
-C++                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.44 % 
-Shell                    1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.44 % 
+💬 Programming Languages:
+TypeScript               24 hrs 47 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   81.09 %
+C                        2 hrs 23 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.80 %
+Other                    1 hr 13 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.00 %
+Markdown                 40 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.22 %
+JavaScript               40 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.20 %
+
+🔥 Editors:
+Cursor                   27 hrs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   88.34 %
+VS Code                  3 hrs 33 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.66 %
+
+💻 Operating System:
+Windows                  30 hrs 34 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
+**I Mostly Code in TypeScript**
 
-
+```text
+TypeScript               24 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.54 %
+JavaScript               5 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.20 %
+C                        2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.88 %
+C++                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.44 %
+Shell                    1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.44 %
+```
 
 <!--END_SECTION:waka-->
