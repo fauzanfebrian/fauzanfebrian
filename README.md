@@ -55,18 +55,6 @@ These stats aren't a list of skills I claim to have, they are a real-time reflec
 generated via WakaTime and shows my actual coding activity over the last 7 days.
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 167.6 kB Used in GitHub's Storage 
- > 
-> 🏆 63 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
