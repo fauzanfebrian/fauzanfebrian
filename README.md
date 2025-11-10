@@ -26,15 +26,9 @@ between the high-level applications I build and the low-level systems they run o
 
 My current focus is on bridging theory with practice:
 
--   🧠 **C Language Deep Dive:** Systematically mastering memory management, pointers, and low-level programming
-    concepts. I document my progress and key insights in my
-    **[C Lab Logs](https://github.com/fauzanfebrian/c-memory-playground/tree/main/docs/lab-logs)**.
--   ⚙️ **Operating System Internals (XV6)**: Currently learning Operating Systems through a guided Operating Systems Camp provided by [CusDeb.com](https://www.instagram.com/cusdeb_com/)
-    . The camp follows MIT’s xv6 approach, blending theory with hands-on exploration of kernel design, system calls, and process management.
-    I document my ongoing progress and experiments in the XV6 [Lab Logs](https://github.com/fauzanfebrian/xv6-riscv/tree/riscv/docs/lab-logs).
--   🤝 Open Source Camp: Joining the Open Source Camp by CusDeb.com
-    , focused on learning how real-world open source collaboration works. from licensing and issue hunting to contributing code. After early exercises like [porting OpenBSD userland utilities to Linux](https://github.com/fauzanfebrian/cusdeb-open-source-playground), the camp’s main target is contributing to          Nextcloud, an open-source alternative to Google Workspace.
-    My first contribution: [nextcloud/server#55992](https://github.com/nextcloud/server/pull/55992).
+-   🧠 **C Language Deep Dive:** Systematically mastering memory management, pointers, and low-level programming concepts. I document my progress and key insights in my **[C Lab Logs](https://github.com/fauzanfebrian/c-memory-playground/tree/main/docs/lab-logs)**.
+-   ⚙️ **Operating System Internals (XV6)**: Currently learning Operating Systems through a guided Operating Systems Camp provided by [CusDeb.com](https://www.instagram.com/cusdeb_com/). The camp follows MIT’s xv6 approach, blending theory with hands-on exploration of kernel design, system calls, and process management. I document my ongoing progress and experiments in the XV6 **[Lab Logs](https://github.com/fauzanfebrian/xv6-riscv/tree/riscv/docs/lab-logs)**.
+-   🤝 Open Source Camp: Joining the Open Source Camp by CusDeb.com, focused on learning how real-world open source collaboration works. from licensing and issue hunting to contributing code. After early exercises like [porting OpenBSD userland utilities to Linux](https://github.com/fauzanfebrian/cusdeb-open-source-playground), the camp’s main target is contributing to Nextcloud, an open-source alternative to Google Workspace. My first contribution: **[nextcloud/server#55992](https://github.com/nextcloud/server/pull/55992)**.
 
 ---
 
