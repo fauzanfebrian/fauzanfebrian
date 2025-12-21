@@ -2,10 +2,10 @@
   <h1>Valar Dohaeris; <strong>I'm Fauzan. Systems Engineer wannabe.</strong></h1>
   <p>Currently banging my head against the kernel until it makes sense.</p>
   <p>
-    <a href="mailto:fauzanfebriann@gmail.com">Send an Email</a> •
-    <a href="https://fauzanfebrian.my.id/">Website</a> •
-    <a href="https://www.linkedin.com/in/fauzanfebriansyah">LinkedIn</a> •
-    <a href="https://github.com/fauzanfebrian">GitHub</a>
+    <a href="mailto:fauzanfebriann@gmail.com" rel="me">Send an Email</a> •
+    <a href="https://fauzanfebrian.my.id/" rel="me">Website</a> •
+    <a href="https://www.linkedin.com/in/fauzanfebriansyah" rel="me">LinkedIn</a> •
+    <a href="https://github.com/fauzanfebrian" rel="me">GitHub</a>
   </p>
 </div>
 
