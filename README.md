@@ -17,7 +17,7 @@ By day, I build scalable applications (NestJS, NextJS, GCP, Etc). By night, I ab
 
 ---
 
-### 🧠 Active Processes
+## 🧠 Active Processes
 
 Bridging the gap between "It works" and "I know *why* it works." I’ve centralized my documentation in the **[Engineering Journey](https://github.com/fauzanfebrian/engineering-journey)** monorepo, mapping the stack from logic gates to cloud infrastructure.
 
@@ -27,7 +27,7 @@ Bridging the gap between "It works" and "I know *why* it works." I’ve centrali
 
 ---
 
-### 🛠️ The Tools
+## 🛠️ The Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -41,7 +41,7 @@ Bridging the gap between "It works" and "I know *why* it works." I’ve centrali
 
 ---
 
-### 📝 System Logs
+## 📝 System Logs
 
 I don't claim skills. I show logs. Data auto-generated via WakaTime.
 
