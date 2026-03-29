@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Valar Dohaeris; <strong>I'm Fauzan. Softwar Engineer.</strong></h1>
+  <h1>Valar Dohaeris; <strong>I'm Fauzan. Software Engineer.</strong></h1>
   <p>Currently banging my head against the kernel until it makes sense.</p>
   <p>
     <a href="mailto:fauzanfebriann@gmail.com" rel="me">Send an Email</a> •
