@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Valar Dohaeris; <strong>I'm Fauzan. Systems Engineer wannabe.</strong></h1>
+  <h1>Valar Dohaeris; <strong>I'm Fauzan. Softwar Engineer.</strong></h1>
   <p>Currently banging my head against the kernel until it makes sense.</p>
   <p>
     <a href="mailto:fauzanfebriann@gmail.com" rel="me">Send an Email</a> •
@@ -13,7 +13,7 @@
 
 I solve problems with code, mostly because I caused them in the first place.
 
-By day, I build scalable applications (NestJS, NextJS, GCP, Etc). By night, I abandon high-level abstractions to break things closer to the metal. I don't believe in "magic" code. I believe in understanding the pointer arithmetic behind it.
+By day, I build scalable enterprise infrastructure and cloud-native systems. By night, I abandon high-level abstractions to break things closer to the metal. I do not believe in magic code. I believe in understanding the pointer arithmetic behind it.
 
 ---
 
@@ -34,7 +34,6 @@ Bridging the gap between "It works" and "I know *why* it works." I’ve centrali
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
