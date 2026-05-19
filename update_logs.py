@@ -84,13 +84,13 @@ def filter_and_format_events(events):
                 continue
 
             commit_url = f"https://github.com/{repo_name}/commit/{head_sha}"
-            log_entry = f"- 💻 **{USERNAME}** pushed to [{repo_name}](https://github.com/{repo_name}) ({date_str}) — {msg} [🔗]({commit_url})"
+            log_entry = f"- **[@{USERNAME}](https://github.com/{USERNAME})** pushed to [{repo_name}](https://github.com/{repo_name}) ({date_str}) — {msg} [`{head_sha[:7]}`]({commit_url})"
 
         elif (
             event_type == "CreateEvent"
             and event["payload"].get("ref_type") == "repository"
         ):
-            log_entry = f"- 🚀 **{USERNAME}** created repository [{repo_name}](https://github.com/{repo_name}) ({date_str})"
+            log_entry = f"- **[@{USERNAME}](https://github.com/{USERNAME})** created repository [{repo_name}](https://github.com/{repo_name}) ({date_str})"
 
         elif event_type == "PullRequestEvent":
             action = event["payload"]["action"]
@@ -102,18 +102,18 @@ def filter_and_format_events(events):
                 if status == "Closed":
                     continue
 
-                log_entry = f"- 🛠️ **{USERNAME}** {status.lower()} PR in [{repo_name}](https://github.com/{repo_name}) ({date_str}) — {pr['title']} [🔗]({pr['html_url']})"
+                log_entry = f"- **[@{USERNAME}](https://github.com/{USERNAME})** {status.lower()} PR in [{repo_name}](https://github.com/{repo_name}) ({date_str}) — {pr['title']} [#{pr['number']}]({pr['html_url']})"
 
         elif event_type == "IssuesEvent" and event["payload"].get("action") == "opened":
             issue = event["payload"]["issue"]
-            log_entry = f"- 🐛 **{USERNAME}** opened issue in [{repo_name}](https://github.com/{repo_name}) ({date_str}) — {issue['title']} [🔗]({issue['html_url']})"
+            log_entry = f"- **[@{USERNAME}](https://github.com/{USERNAME})** opened issue in [{repo_name}](https://github.com/{repo_name}) ({date_str}) — {issue['title']} [#{issue['number']}]({issue['html_url']})"
 
         elif (
             event_type == "ReleaseEvent"
             and event["payload"].get("action") == "published"
         ):
             release = event["payload"]["release"]
-            log_entry = f"- 📦 **{USERNAME}** published [{release['name'] or release['tag_name']}]({release['html_url']}) in [{repo_name}](https://github.com/{repo_name}) ({date_str})"
+            log_entry = f"- **[@{USERNAME}](https://github.com/{USERNAME})** published [{release['name'] or release['tag_name']}]({release['html_url']}) in [{repo_name}](https://github.com/{repo_name}) ({date_str})"
 
         if log_entry:
             logs.append(log_entry)
