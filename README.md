@@ -45,6 +45,19 @@ Bridging the gap between "It works" and "I know *why* it works." I’ve centrali
 I don't claim skills. I show logs. Data auto-generated via WakaTime.
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
