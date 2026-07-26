@@ -45,5 +45,11 @@ Bridging the gap between "It works" and "I know *why* it works." I’ve centrali
 I don't claim skills. I show logs. Real-time activity from my GitHub.
 
 <!--START_SECTION:system_logs-->
-_No recent high-signal activity found._
+- **[@fauzanfebrian](https://github.com/fauzanfebrian)** pushed to [fauzanfebrian/dotfiles](https://github.com/fauzanfebrian/dotfiles) (Jul 25) — ghostty: harden, correct, and advance config per docs reference [`c2b3cb4`](https://github.com/fauzanfebrian/dotfiles/commit/c2b3cb4efad6baa1d6083176159b59e476940d07)
+- **[@fauzanfebrian](https://github.com/fauzanfebrian)** pushed to [fauzanfebrian/dotfiles](https://github.com/fauzanfebrian/dotfiles) (Jul 25) — bashrc: remove lazy loading for pyenv and nvm [`c59f250`](https://github.com/fauzanfebrian/dotfiles/commit/c59f25056becbe23c5786b2386c0702900556694)
+- **[@fauzanfebrian](https://github.com/fauzanfebrian)** pushed to [fauzanfebrian/group2-ADIM-assignments](https://github.com/fauzanfebrian/group2-ADIM-assignments) (Jul 25) — docs: Change project title to Tugas Group 2 [`20f7038`](https://github.com/fauzanfebrian/group2-ADIM-assignments/commit/20f70387f2f00c8e13804887333358722a393907)
+- **[@fauzanfebrian](https://github.com/fauzanfebrian)** pushed to [fauzanfebrian/group2-ADIM-assignments](https://github.com/fauzanfebrian/group2-ADIM-assignments) (Jul 25) — docs: add description of what the project will build in README [`6049c6b`](https://github.com/fauzanfebrian/group2-ADIM-assignments/commit/6049c6bfb9ae7cb63301c389087cf96d5be9a670)
+- **[@fauzanfebrian](https://github.com/fauzanfebrian)** pushed to [fauzanfebrian/spotify](https://github.com/fauzanfebrian/spotify) (Jul 25) — style: add fixed bottom right watermark using Tailwind CSS [`7df3b04`](https://github.com/fauzanfebrian/spotify/commit/7df3b04da1535f8b2a47589e3887ed3c553afe2a)
+
+> 🕒 *Last updated: 2026-07-26 01:23 UTC*
 <!--END_SECTION:system_logs-->
