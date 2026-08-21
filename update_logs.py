@@ -102,11 +102,11 @@ def filter_and_format_events(events):
                 if status == "Closed":
                     continue
 
-                log_entry = f"- **[@{USERNAME}](https://github.com/{USERNAME})** {status.lower()} PR in [{repo_name}](https://github.com/{repo_name}) ({date_str}) — {pr['title']} [#{pr['number']}]({pr['html_url']})"
+                log_entry = f"- **[@{USERNAME}](https://github.com/{USERNAME})** {status.lower()} PR in [{repo_name}](https://github.com/{repo_name}) ({date_str}) — {pr.get('title', 'Untitled PR')} [#{pr.get('number', '')}]({pr.get('html_url', '')})"
 
         elif event_type == "IssuesEvent" and event["payload"].get("action") == "opened":
             issue = event["payload"]["issue"]
-            log_entry = f"- **[@{USERNAME}](https://github.com/{USERNAME})** opened issue in [{repo_name}](https://github.com/{repo_name}) ({date_str}) — {issue['title']} [#{issue['number']}]({issue['html_url']})"
+            log_entry = f"- **[@{USERNAME}](https://github.com/{USERNAME})** opened issue in [{repo_name}](https://github.com/{repo_name}) ({date_str}) — {issue.get('title', 'Untitled Issue')} [#{issue.get('number', '')}]({issue.get('html_url', '')})"
 
         elif (
             event_type == "ReleaseEvent"
