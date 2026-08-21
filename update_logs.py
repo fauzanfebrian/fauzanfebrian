@@ -101,11 +101,24 @@ def filter_and_format_events(events):
                 # Skip closed but unmerged PRs
                 if status == "Closed":
                     continue
+                
+                # Fetch full PR object if title or html_url is missing
+                if "title" not in pr or "html_url" not in pr:
+                    pr_data = api_request(pr.get("url"))
+                    if pr_data:
+                        pr = pr_data
 
                 log_entry = f"- **[@{USERNAME}](https://github.com/{USERNAME})** {status.lower()} PR in [{repo_name}](https://github.com/{repo_name}) ({date_str}) — {pr.get('title', 'Untitled PR')} [#{pr.get('number', '')}]({pr.get('html_url', '')})"
 
         elif event_type == "IssuesEvent" and event["payload"].get("action") == "opened":
             issue = event["payload"]["issue"]
+            
+            # Fetch full issue object if title or html_url is missing
+            if "title" not in issue or "html_url" not in issue:
+                issue_data = api_request(issue.get("url"))
+                if issue_data:
+                    issue = issue_data
+                    
             log_entry = f"- **[@{USERNAME}](https://github.com/{USERNAME})** opened issue in [{repo_name}](https://github.com/{repo_name}) ({date_str}) — {issue.get('title', 'Untitled Issue')} [#{issue.get('number', '')}]({issue.get('html_url', '')})"
 
         elif (
