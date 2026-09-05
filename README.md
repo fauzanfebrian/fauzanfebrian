@@ -25,8 +25,6 @@ Bridging the gap between "It works" and "I know *why* it works." I’ve centrali
 - **Layer 2: The Kernel (XV6 & Linux):** The playground. Successfully recreated Go routines in C using RISC-V pipe syscalls and wrote my first Linux kernel module.
 - **Layer 3: The Application (C & Open Source):** Mastering manual memory management and contributing to the real world (Merged PR for **[Nextcloud Server](https://github.com/nextcloud/server/pull/55992)**).
 
----
-
 ## Tools
 
 <p align="center">
@@ -37,8 +35,6 @@ Bridging the gap between "It works" and "I know *why* it works." I’ve centrali
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
-
----
 
 ## Logs
 
