@@ -17,7 +17,7 @@ I focus on bridging the gap between high-level distributed systems and the under
 
 ---
 
-## 🧠 Active Processes
+## Processes
 
 Bridging the gap between "It works" and "I know *why* it works." I’ve centralized my documentation in the **[Engineering Journey](https://github.com/fauzanfebrian/engineering-journey)** monorepo, mapping the stack from logic gates to cloud infrastructure.
 
@@ -27,7 +27,7 @@ Bridging the gap between "It works" and "I know *why* it works." I’ve centrali
 
 ---
 
-## 🛠️ The Tools
+## Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -40,7 +40,7 @@ Bridging the gap between "It works" and "I know *why* it works." I’ve centrali
 
 ---
 
-## 📝 System Logs
+## Logs
 
 I don't claim skills. I show logs. Real-time activity from my GitHub.
 
